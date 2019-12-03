@@ -6,4 +6,4 @@ header('Content-Type: text/html; charset=utf-8');
 
 printf('Hello %s', htmlspecialchars($name, ENT_QUOTES, 'UTF-8'));
 
-echo('Essa);
+echo('Essa');
